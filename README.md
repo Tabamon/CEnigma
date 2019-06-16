@@ -24,6 +24,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ##Acknowledgments
 
-*Jim Rhodes for providing the Decrypt function
-*PoliTo course Rivoluzione Digitale for providing inspiration
-*Alkhasar for testing the code
+* Jim Rhodes for providing the Decrypt function
+* PoliTo course Rivoluzione Digitale for providing inspiration
+* Alkhasar for testing the code
