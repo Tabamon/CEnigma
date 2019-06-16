@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#include "func.h"
-#include "menu.h"
-#include "title.h"
+#include "headers/func.h"
+#include "headers/menu.h"
+#include "headers/title.h"
 
 //initialize all the global variables
     char rs1[27], rs2[27], rs3[27];

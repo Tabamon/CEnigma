@@ -1,8 +1,8 @@
-#include "menu.h"
+#include "headers/menu.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-#include "title.h"
+#include "headers/title.h"
 
 extern int posrs1, posrs2, posrs3;
 extern int r1,r2,r3;
