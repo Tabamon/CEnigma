@@ -23,7 +23,7 @@ void PrintFromFile(void){
     char C[70];
     FILE* Fimmage;
     printf("\n\n");
-    Fimmage=fopen("immage.txt","r");
+    Fimmage=fopen("image.txt","r");
     if (Fimmage==NULL) exit(4);
     while (fgets(C,sizeof(C),Fimmage)!=NULL){
         printf("%s",C);
