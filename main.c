@@ -13,7 +13,7 @@
     int posrs1, posrs2, posrs3;
     char plugboard[27]="ABCDIFGHEJKLMNUPQRSTOVWXYZ";
 
-void main(void){
+int main(void){
 
     //initialize main local variables
     FILE *f1;
@@ -54,5 +54,6 @@ void main(void){
 
         printf("The decrypted message is: %s\n",sentence);
     }
+    return 0;
 }
 
