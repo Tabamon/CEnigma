@@ -11,8 +11,8 @@ As of right now, this code does not have any PreRequisites other than a C compil
 ## Installing
 
 To install the package, download it or clone it, after you clone it execute the command inside it's folder:  
-$ gcc main.c func.c menu.c title.c -o enigma  
-$./enigma
+$ make  
+$./CEnigma
 
 ## Authors
 
